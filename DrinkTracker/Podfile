@@ -1,0 +1,5 @@
+workspace 'DrinkTracker'
+target ‘DrinkTracker’ do
+  platform :ios, '11.0'
+  pod 'Google-Mobile-Ads-SDK'
+end
