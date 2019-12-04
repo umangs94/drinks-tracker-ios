@@ -4,7 +4,7 @@ In 2017, I published an iOS app called Drinks Tracker on the App Store. I create
 
 This project was uploaded to GitHub in 2019.
 
-## App Store description
+## Description
 
 Drinks Tracker allows you to search a huge list of nearly 4000 drinks and easily add drinks to track your Blood Alcohol Content (BAC) percentage. 
 
